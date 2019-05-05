@@ -1,0 +1,5 @@
+C:\Users\aesda\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\aesda\source\repos\MathQuiz\MathQuiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\aesda\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\aesda\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\aesda\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
